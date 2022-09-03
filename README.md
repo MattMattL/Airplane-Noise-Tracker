@@ -1,4 +1,4 @@
 # Airplane Noise Tracker
-For people who are scared of airplane noisees.
+For people who are scared of airplane noise.
 
 ## Description
